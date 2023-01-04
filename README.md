@@ -1,2 +1,2 @@
-# CalculaIMC_ReactJS
-Created with CodeSandbox
+# Calculadora de IMC - ReactJS
+![](image.jpg)
